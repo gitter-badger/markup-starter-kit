@@ -1,5 +1,7 @@
 # Markup Starter Kit
 
+[![Join the chat at https://gitter.im/lauraluo/markup-starter-kit](https://badges.gitter.im/lauraluo/markup-starter-kit.svg)](https://gitter.im/lauraluo/markup-starter-kit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - 使用 Jade
 - 使用 Scss
 - 使用 Gulp
